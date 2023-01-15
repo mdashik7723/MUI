@@ -6,7 +6,7 @@ import Button from '@mui/material/Button';
   return (
 
       <div>
-          <h1 />
+          <h1 card, Imagelist, accordion, paper/>
       </div>
   );
 }
