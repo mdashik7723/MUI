@@ -7,7 +7,8 @@ import Button from '@mui/material/Button';
 
       <div>
           <h1 card, Imagelist, accordion, paper, Grid, Navbar, Menu ,Link, Drawer,
-          Breadcrumbs />
+          Breadcrumbs, speed dial, Bottom Navigation
+        Avatar, List,  />
       </div>
   );
 }
