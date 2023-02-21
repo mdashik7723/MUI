@@ -11,7 +11,7 @@ import Button from '@mui/material/Button';
         Avatar, List, Badge, Chip, Tooltrip, Table />
       </div>
 
-  );
+ );
 }
 
 export default App;
